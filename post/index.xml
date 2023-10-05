@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,13 +13,22 @@
     </image>
     
     <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <title>This is my first post about last week!</title>
       <link>https://example.com/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+      <description>&lt;p&gt;Hello everybody!&lt;/p&gt;
+&lt;p&gt;Have you already felt all this autumn mood when you want to drink cocoa and watch different movies or read books? I love autumn for that. But since I am actively studying now, it is studying that takes most of the time. This week, for example, I did several laboratory works on Scientific Programming at once. I also watched several videos about neural networks, because my future dissertation work assumes the use of a neural network to determine the optimal strategy for the redistribution of resources in a 5G network.&lt;/p&gt;
+&lt;p&gt;But I have one piece of good news, because last weekend I finally picked up a book from the post office that my friend brought me straight from my beloved Paris. This is a mystical novel by a belgian singer - Loic Nottet, whom I have been listening to since his performance at Eurovision and I am very happy now that I have his book.&lt;/p&gt;
+&lt;p&gt;By the way, if you don&amp;rsquo;t know what to read these autumn evenings, then keep a selection of my favorite books:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Victor Hugo &lt;a href=&#34;https://www.chitai-gorod.ru/product/sobor-parizhskoy-bogomateri-2513491?productShelf=&amp;amp;shelfIndex=0&amp;amp;productIndex=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;«Notre-Dame de Paris»&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Erich Maria Remarque &lt;a href=&#34;https://www.chitai-gorod.ru/product/triumfalnaya-arka-2602918?productShelf=&amp;amp;shelfIndex=0&amp;amp;productIndex=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;«Arch of Triumph»&lt;/a&gt; and &lt;a href=&#34;https://www.chitai-gorod.ru/product/tri-tovarishcha-2666861?productShelf=&amp;amp;shelfIndex=0&amp;amp;productIndex=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;«Three Comrades»&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ray Bradbury &lt;a href=&#34;https://www.chitai-gorod.ru/product/4510-po-farengeytu-2822350?productShelf=&amp;amp;shelfIndex=0&amp;amp;productIndex=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;«Fahrenheit 451»&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Veniamin Kaverin &lt;a href=&#34;https://www.chitai-gorod.ru/product/dva-kapitana-2590405?productShelf=&amp;amp;shelfIndex=0&amp;amp;productIndex=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;«The Two Captains»&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guillaume Musso &lt;a href=&#34;https://www.chitai-gorod.ru/product/kvartira-v-parizhe-2735645?productShelf=&amp;amp;shelfIndex=0&amp;amp;productIndex=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;«An Apartment in Paris»&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Have a nice week everyone, bye!&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
 &lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
@@ -86,9 +95,6 @@
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
 &lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
     </item>
     
@@ -196,7 +202,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-728536194&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-653247189&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -206,7 +212,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-728536194&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-653247189&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
