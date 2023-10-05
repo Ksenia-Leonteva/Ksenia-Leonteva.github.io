@@ -40,11 +40,27 @@
       <description>&lt;p&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Have you already felt all this autumn mood when you want to drink cocoa and watch different movies or read books? I love autumn for that. But since I am actively studying now, it is studying that takes most of the time. This week, for example, I did several laboratory works on Scientific Programming at once. I also watched several videos about neural networks, because my future dissertation work assumes the use of a neural network to determine the optimal strategy for the redistribution of resources in a 5G network.&lt;/p&gt;
 &lt;p&gt;But I have one piece of good news, because last weekend I finally picked up a book from the post office that my friend brought me straight from my beloved Paris. This is a mystical novel by a belgian singer - Loic Nottet, whom I have been listening to since his performance at Eurovision and I am very happy now that I have his book.&lt;/p&gt;
-&lt;p&gt;image:
-caption: &amp;lsquo;Image credit: &lt;a href=&#34;image/image1.jpg&#34;&gt;Unsplash&lt;/a&gt;{#fig:002 width=90%}&amp;rsquo;
-focal_point: &amp;rsquo;&#39;
-placement: 2
-preview_only: false&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image1.jpg&#34; alt=&#34;Book&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;By the way, if you don&amp;rsquo;t know what to read these autumn evenings, then keep a selection of my favorite books:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Victor Hugo &lt;a href=&#34;https://www.chitai-gorod.ru/product/sobor-parizhskoy-bogomateri-2513491?productShelf=&amp;amp;shelfIndex=0&amp;amp;productIndex=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;«Notre-Dame de Paris»&lt;/a&gt;&lt;/li&gt;
@@ -161,7 +177,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-825746139&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-594173268&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -171,7 +187,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-825746139&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-594173268&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
