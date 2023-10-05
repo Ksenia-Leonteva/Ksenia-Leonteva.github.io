@@ -40,7 +40,7 @@
       <description>&lt;p&gt;&lt;strong&gt;Continuous Integration and Continuous Delivery (CI/CD)&lt;/strong&gt; is a software development approach that aims to improve the speed, efficiency, and reliability of software delivery. This approach involves frequent code integration, automated testing, and continuous deployment of software changes to production.
 Before the adoption of CI/CD in the software development industry, the common approach was a traditional, waterfall model of software development.
 In this approach, developers worked in silos, with each stage of the software development life cycle completed in sequence. The process typically involved gathering requirements, designing the software, coding, testing, and deployment.&lt;/p&gt;
-&lt;p&gt;The disadvantages of this traditional approach include:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The disadvantages&lt;/em&gt; of this traditional approach include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Slow Release Cycles&lt;/li&gt;
 &lt;li&gt;High Failure Rates&lt;/li&gt;
@@ -63,8 +63,29 @@ The shorter the release cycle the easier it is to troubleshoot in case of any is
 &lt;p&gt;Continuous Delivery without a manual trigger is Continuous Deployment.
 In Continuous Deployment, every code change is directly released to customers without any manual intervention if it successfully passes all the stages of your CI/CD pipeline. So, if there are no failures in any pipeline tests, every code change is available to the customers immediately.
 This level of automation is made possible by a combination of several different tools and processes that work together to verify and push the code changes to production.
-Once the developer pushes the new code change, it is automatically built, integrated, tested, and directly deployed to the production environment.
-The key benefits of CI/CD include:&lt;/p&gt;
+Once the developer pushes the new code change, it is automatically built, integrated, tested, and directly deployed to the production environment.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image1.png&#34; alt=&#34;pic&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The key &lt;em&gt;benefits&lt;/em&gt; of CI/CD include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Faster Release Cycles&lt;/li&gt;
 &lt;li&gt;Improved Quality&lt;/li&gt;
@@ -73,6 +94,7 @@ The key benefits of CI/CD include:&lt;/p&gt;
 &lt;li&gt;Cost-Effective&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In summary, CI/CD emerged as a solution to the limitations of the traditional, linear approach to software development. By introducing a more agile and collaborative approach to software development, CI/CD enables teams to work together, release software more frequently, and respond quickly to customer needs.&lt;/p&gt;
+&lt;p&gt;You can read more about this &lt;a href=&#34;https://vegastack.com/blog/continuous-integration-continuous-deployment-continuous-delivery/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.freecodecamp.org/news/what-is-ci-cd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -172,7 +194,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-513986247&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-897342165&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -182,7 +204,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-513986247&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-897342165&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
