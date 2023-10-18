@@ -33,17 +33,6 @@
     </item>
     
     <item>
-      <title>First Week...</title>
-      <link>https://example.com/post/2nd-week/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/2nd-week/</guid>
-      <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;This post is supposed to be a post about the past week, but since there is little new and interesting going on, I can just say that on Monday we had our first test on the Additional Chapters of Queuing Theory, and on Stochastic Processes we started presenting our essays. Everything else is the same. The weather in recent days has not been particularly encouraging, it is getting colder and it often rains, although I love them, I prefer summer ones with thunderstorms. Just last week, the Cantata store had discounts in honor of the company’s birthday, so I was able to purchase new portions of various delicious teas.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s probably all, so I wish everyone a good week and see you soon!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Markup language Markdown</title>
       <link>https://example.com/post/markdown/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
@@ -111,6 +100,17 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;You can read more about this &lt;a href=&#34;https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://ru.wikibooks.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B_%D0%B2_LaTeX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second Week...</title>
+      <link>https://example.com/post/2nd-week/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2nd-week/</guid>
+      <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;This post is supposed to be a post about the past week, but since there is little new and interesting going on, I can just say that on Monday we had our first test on the Additional Chapters of Queuing Theory, and on Stochastic Processes we started presenting our essays. Everything else is the same. The weather in recent days has not been particularly encouraging, it is getting colder and it often rains, although I love them, I prefer summer ones with thunderstorms. Just last week, the Cantata store had discounts in honor of the company’s birthday, so I was able to purchase new portions of various delicious teas.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s probably all, so I wish everyone a good week and see you soon!&lt;/p&gt;
 </description>
     </item>
     

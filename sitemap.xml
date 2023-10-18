@@ -22,10 +22,6 @@
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/2nd-week/</loc>
-    <lastmod>2023-10-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/post/markdown/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -35,6 +31,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/science/</loc>
+    <lastmod>2023-10-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/2nd-week/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
