@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Markup language Markdown.</title>
+      <title>Markup language Markdown</title>
       <link>https://example.com/post/markdown/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/markdown/</guid>
@@ -22,7 +22,7 @@
 &lt;h2 id=&#34;markdown-syntax&#34;&gt;Markdown syntax.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (&lt;h3&gt;), use three number signs (e.g., ### My Header).&lt;/p&gt;
+&lt;p&gt;To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (&amp;lt;h3&amp;gt;), use three number signs (e.g., ### My Header).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;To create paragraphs, use a blank line to separate one or more lines of text.&lt;/p&gt;
