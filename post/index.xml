@@ -13,6 +13,81 @@
     </image>
     
     <item>
+      <title>Creating a report</title>
+      <link>https://example.com/post/report/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/report/</guid>
+      <description>&lt;h3 id=&#34;report-structure&#34;&gt;Report structure&lt;/h3&gt;
+&lt;p&gt;According to the generally accepted standard, any research work must necessarily contain the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;title page,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;abstract,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;introduction,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;theoretical part,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;main part,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;conclusion.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The standard also recommends including the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;list of performers,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;content,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;normative references,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;definitions,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;designations and abbreviations,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;list of sources used,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;applications.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;content-of-main-elements-of-the-report&#34;&gt;Content of main elements of the report&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Title page.&lt;/strong&gt; The first page of work is drawn up strictly according to the model, which is usually given in teaching aids. It not only requires you to indicate elements such as the name of the educational institution, type of work and information about the performer, but also arrange them in strict accordance with the standards.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract.&lt;/strong&gt; The abstract is essentially a summary of your entire report and contains a number of statistical information. It must indicate the number of parts, pages of work, illustrations, appendices, tables, used literary sources and appendices. Here is a list of keywords of the work and the actual text of the abstract. The latter implies the main elements of work from set goals to results and recommendations for their implementation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introduction.&lt;/strong&gt; The introduction of a standard report usually states the goals of the research being conducted and the tasks that will help achieve the goals. It is also necessary to write a detailed introduction with proof of the relevance and novelty of the topic being studied. In the introduction, it is necessary to provide an assessment of the current state of the problem under consideration and justify the need for its solution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Theoretical part.&lt;/strong&gt; The content of the theoretical part depends on the discipline in which the laboratory work is being done. This may be a description of formulas, theorems, measuring instruments and techniques, or the history of studying the problem. All this is presented briefly and as briefly as possible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main part.&lt;/strong&gt; This section of the report should reflect the essence of the work, describe its methodology and the results obtained. The main part contains the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;goals of the research;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;tasks, the implementation of which will help achieve the goals;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;progress of work, which describes the actions performed;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;other sections provided for in the teaching materials for the discipline being studied.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion.&lt;/strong&gt; In this part of the report, you need to draw conclusions based on the results obtained during the work. To do this, it is assessed how fully the assigned tasks have been completed. Complex work may also contain other elements, for example, recommendations for further application of the results of the work performed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Third Week🎃...</title>
       <link>https://example.com/post/cake/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>

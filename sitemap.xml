@@ -18,6 +18,10 @@
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/report/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/category/demo/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,6 +34,10 @@
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/tag/science/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tags/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -39,10 +47,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/markdown/</loc>
-    <lastmod>2023-10-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/science/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
