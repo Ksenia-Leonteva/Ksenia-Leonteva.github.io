@@ -95,6 +95,17 @@
     </item>
     
     <item>
+      <title>Second Week...</title>
+      <link>https://example.com/post/cake/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/cake/</guid>
+      <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;This post is supposed to be a post about the past week, but since there is little new and interesting going on, I can just say that on Monday we had our first test on the Additional Chapters of Queuing Theory, and on Stochastic Processes we started presenting our essays. Everything else is the same. The weather in recent days has not been particularly encouraging, it is getting colder and it often rains, although I love them, I prefer summer ones with thunderstorms. Just last week, the Cantata store had discounts in honor of the company’s birthday, so I was able to purchase new portions of various delicious teas.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s probably all, so I wish everyone a good week and see you soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Continuous Integration and Continuous Delivery (CI/CD)</title>
       <link>https://example.com/post/writing-technical-content/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
