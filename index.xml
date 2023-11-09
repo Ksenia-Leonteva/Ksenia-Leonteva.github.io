@@ -5,7 +5,7 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
@@ -14,9 +14,29 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://example.com/en/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://example.com/en/event/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://example.com/ru/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/event/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +54,84 @@
     
     <item>
       <title>Creating a report</title>
-      <link>https://example.com/post/report/</link>
+      <link>https://example.com/en/post/report/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/report/</guid>
+      <guid>https://example.com/en/post/report/</guid>
+      <description>&lt;h3 id=&#34;report-structure&#34;&gt;Report structure&lt;/h3&gt;
+&lt;p&gt;According to the generally accepted standard, any research work must necessarily contain the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;title page,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;abstract,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;introduction,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;theoretical part,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;main part,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;conclusion.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The standard also recommends including the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;list of performers,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;content,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;normative references,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;definitions,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;designations and abbreviations,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;list of sources used,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;applications.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;content-of-main-elements-of-the-report&#34;&gt;Content of main elements of the report&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Title page.&lt;/strong&gt; The first page of work is drawn up strictly according to the model, which is usually given in teaching aids. It not only requires you to indicate elements such as the name of the educational institution, type of work and information about the performer, but also arrange them in strict accordance with the standards.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract.&lt;/strong&gt; The abstract is essentially a summary of your entire report and contains a number of statistical information. It must indicate the number of parts, pages of work, illustrations, appendices, tables, used literary sources and appendices. Here is a list of keywords of the work and the actual text of the abstract. The latter implies the main elements of work from set goals to results and recommendations for their implementation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introduction.&lt;/strong&gt; The introduction of a standard report usually states the goals of the research being conducted and the tasks that will help achieve the goals. It is also necessary to write a detailed introduction with proof of the relevance and novelty of the topic being studied. In the introduction, it is necessary to provide an assessment of the current state of the problem under consideration and justify the need for its solution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Theoretical part.&lt;/strong&gt; The content of the theoretical part depends on the discipline in which the laboratory work is being done. This may be a description of formulas, theorems, measuring instruments and techniques, or the history of studying the problem. All this is presented briefly and as briefly as possible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main part.&lt;/strong&gt; This section of the report should reflect the essence of the work, describe its methodology and the results obtained. The main part contains the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;goals of the research;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;tasks, the implementation of which will help achieve the goals;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;progress of work, which describes the actions performed;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;other sections provided for in the teaching materials for the discipline being studied.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion.&lt;/strong&gt; In this part of the report, you need to draw conclusions based on the results obtained during the work. To do this, it is assessed how fully the assigned tasks have been completed. Complex work may also contain other elements, for example, recommendations for further application of the results of the work performed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating a report</title>
+      <link>https://example.com/ru/post/report/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/report/</guid>
       <description>&lt;h3 id=&#34;report-structure&#34;&gt;Report structure&lt;/h3&gt;
 &lt;p&gt;According to the generally accepted standard, any research work must necessarily contain the following elements:&lt;/p&gt;
 &lt;ul&gt;
@@ -109,9 +204,75 @@
     
     <item>
       <title>Third Week🎃...</title>
-      <link>https://example.com/post/cake/</link>
+      <link>https://example.com/en/post/cake/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/cake/</guid>
+      <guid>https://example.com/en/post/cake/</guid>
+      <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Last week was Halloween, so I wanted to share with you a delicious pumpkin pie recipe.&lt;/p&gt;
+&lt;h3 id=&#34;ingredients&#34;&gt;INGREDIENTS&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pie Dough&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1 2/3 Cup Flour&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 tsp Salt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 Sticks Butter&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2-3 Tbsp Ice Water&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Pie Filling&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1 Cup Sugar&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1/2 tsp Salt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 tsp Ground Cinnamon&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1/2 tsp Nutmeg&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1/2 tsp Ground Ginger&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 Eggs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;15 oz Canned Pumpkin Puree see notes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 1/3 Cup Evaporated Milk see notes&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;instructions&#34;&gt;INSTRUCTIONS&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pie Dough&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Add the flour and salt to a large mixing bowl. Cut the butter into small cubes and add to the bowl. Use clean dry hands to rub the butter into the flour until it resembles sand and the butter is no larger than the size of a pea.
+Spoon in the ice water and use a butter knife to combine the ingredients together. Pour the pie dough out onto the work top and form into a ball. Cover and place in the fridge for at least 30 minutes.
+Roll the chilled pie dough out to 1/8&amp;quot; or 1/2 cm thick and place in a 8&amp;quot; or 20cm pie dish. Cut off the excess pastry and using your thumbs and finger pinch the edges of the dough. Place into the fridge until ready to use.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pumpkin Pie Filling&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In a clean bowl add the sugar, salt, spices and eggs. Whisk to combine until there are no longer any lumps.Add the pumpkin puree and evaporated milk and whisk until you are left with a smooth and creamy custard
+Remove the pie crust from the fridge and pour in the pumpkin pie filling. Place into a 230C / 450F oven on the bottom rack and immediately turn the the temperature down to 170C / 325F. Bake for about 50 minutes to one hour or until the center of the pie only slightly jiggles when shaken.
+Cool the pie completely at room temperature. Serve with a dollop of freshly whipped cream and a sprinkle of cinnamon.&lt;/p&gt;
+&lt;h3 id=&#34;notes&#34;&gt;NOTES&lt;/h3&gt;
+&lt;p&gt;If you are using homemade pumpkin puree, cut a pumpkin in half and bake face down for around 40 minutes at 200C or 400F until soft. Leave to cool before scooping out the flesh and blending. Squeeze out as much moisture as you can by wrapping the pureed pumpkin in a tea towel and squeezing.
+White sugar can be replaced with brown sugar for a more caramel flavour to the pumpkin pie.
+Evaporated milk can be replaced with cream or half and half.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Third Week🎃...</title>
+      <link>https://example.com/ru/post/cake/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/cake/</guid>
       <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Last week was Halloween, so I wanted to share with you a delicious pumpkin pie recipe.&lt;/p&gt;
 &lt;h3 id=&#34;ingredients&#34;&gt;INGREDIENTS&lt;/h3&gt;
@@ -175,9 +336,80 @@ Evaporated milk can be replaced with cream or half and half.&lt;/p&gt;
     
     <item>
       <title>Markup language Markdown</title>
-      <link>https://example.com/post/markdown/</link>
+      <link>https://example.com/en/post/markdown/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
+      <guid>https://example.com/en/post/markdown/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber created Markdown in 2004 as a markup language that is easy to read in its source code form. Markdown is widely used for blogging and instant messaging, and also used elsewhere in online forums, collaborative software, documentation pages, and readme files.&lt;/p&gt;
+&lt;p&gt;The initial description of Markdown contained ambiguities and raised unanswered questions, causing implementations to both intentionally and accidentally diverge from the original version. This was addressed in 2014 when long-standing Markdown contributors released CommonMark, an unambiguous specification and test suite for Markdown.&lt;/p&gt;
+&lt;h2 id=&#34;markdown-syntax&#34;&gt;Markdown syntax.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (&amp;lt;h3&amp;gt;), use three number signs (e.g., ### My Header).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To create paragraphs, use a blank line to separate one or more lines of text.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To create a line break or new line (&amp;lt;br&amp;gt;), end a line with two or more spaces, and then type return.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To italicize text, add one asterisk or underscore before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To emphasize text with bold and italics at the same time, add three asterisks or underscores before and after a word or phrase. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To create a blockquote, add a &amp;gt; in front of a paragraph.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In-text formulas are created similarly to LaTeX formulas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To convert a Markdown-file to pdf or docx, you can use the following Makefile and use the &amp;ldquo;make all&amp;rdquo; command on the command line.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image1.jpg&#34; alt=&#34;Makefile&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read more about this &lt;a href=&#34;https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://ru.wikibooks.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B_%D0%B2_LaTeX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markup language Markdown</title>
+      <link>https://example.com/ru/post/markdown/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/markdown/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber created Markdown in 2004 as a markup language that is easy to read in its source code form. Markdown is widely used for blogging and instant messaging, and also used elsewhere in online forums, collaborative software, documentation pages, and readme files.&lt;/p&gt;
 &lt;p&gt;The initial description of Markdown contained ambiguities and raised unanswered questions, causing implementations to both intentionally and accidentally diverge from the original version. This was addressed in 2014 when long-standing Markdown contributors released CommonMark, an unambiguous specification and test suite for Markdown.&lt;/p&gt;
 &lt;h2 id=&#34;markdown-syntax&#34;&gt;Markdown syntax.&lt;/h2&gt;
@@ -246,9 +478,20 @@ Evaporated milk can be replaced with cream or half and half.&lt;/p&gt;
     
     <item>
       <title>Second Week...</title>
-      <link>https://example.com/post/2nd-week/</link>
+      <link>https://example.com/en/post/2nd-week/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/2nd-week/</guid>
+      <guid>https://example.com/en/post/2nd-week/</guid>
+      <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;This post is supposed to be a post about the past week, but since there is little new and interesting going on, I can just say that on Monday we had our first test on the Additional Chapters of Queuing Theory, and on Stochastic Processes we started presenting our essays. Everything else is the same. The weather in recent days has not been particularly encouraging, it is getting colder and it often rains, although I love them, I prefer summer ones with thunderstorms. Just last week, the Cantata store had discounts in honor of the company’s birthday, so I was able to purchase new portions of various delicious teas.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s probably all, so I wish everyone a good week and see you soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second Week...</title>
+      <link>https://example.com/ru/post/2nd-week/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/2nd-week/</guid>
       <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;This post is supposed to be a post about the past week, but since there is little new and interesting going on, I can just say that on Monday we had our first test on the Additional Chapters of Queuing Theory, and on Stochastic Processes we started presenting our essays. Everything else is the same. The weather in recent days has not been particularly encouraging, it is getting colder and it often rains, although I love them, I prefer summer ones with thunderstorms. Just last week, the Cantata store had discounts in honor of the company’s birthday, so I was able to purchase new portions of various delicious teas.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s probably all, so I wish everyone a good week and see you soon!&lt;/p&gt;
@@ -257,9 +500,75 @@ Evaporated milk can be replaced with cream or half and half.&lt;/p&gt;
     
     <item>
       <title>Continuous Integration and Continuous Delivery (CI/CD)</title>
-      <link>https://example.com/post/writing-technical-content/</link>
+      <link>https://example.com/en/post/writing-technical-content/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
+      <guid>https://example.com/en/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Continuous Integration and Continuous Delivery (CI/CD)&lt;/strong&gt; is a software development approach that aims to improve the speed, efficiency, and reliability of software delivery. This approach involves frequent code integration, automated testing, and continuous deployment of software changes to production.
+Before the adoption of CI/CD in the software development industry, the common approach was a traditional, waterfall model of software development.
+In this approach, developers worked in silos, with each stage of the software development life cycle completed in sequence. The process typically involved gathering requirements, designing the software, coding, testing, and deployment.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The disadvantages&lt;/em&gt; of this traditional approach include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slow Release Cycles&lt;/li&gt;
+&lt;li&gt;High Failure Rates&lt;/li&gt;
+&lt;li&gt;Limited Collaboration&lt;/li&gt;
+&lt;li&gt;High Cost&lt;/li&gt;
+&lt;li&gt;Limited Agility&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CI/CD emerged as a solution to these disadvantages, by introducing a more agile and collaborative approach to software development. CI/CD enables teams to work together, integrating their code changes frequently, and automating the testing and deployment process.&lt;/p&gt;
+&lt;h2 id=&#34;continuous-integration-ci&#34;&gt;Continuous Integration (CI)&lt;/h2&gt;
+&lt;p&gt;CI is the process of merging all the Developer code changes to a single shared main branch as often as possible, frequently.
+Developers merge their code changes, many times a day to the remote Git Repository&amp;rsquo;s main branch. These code changes are then verified and validated by using automation to create builds and run tests on the created builds.
+So, the new code changes being pushed are built, integrated and tested in a few minutes, providing immediate feedback to the developer about the code status and any issues.
+Continuous Integration ensures that the application is not broken whenever new commits from all the developers are integrated into the Release branch of the Repository, as they are all tested well in advance.&lt;/p&gt;
+&lt;h2 id=&#34;continuous-delivery-cd&#34;&gt;Continuous Delivery (CD)&lt;/h2&gt;
+&lt;p&gt;Continuous Delivery is the practice where the code changes are released frequently in shorter cycles to customers, quickly and reliably.
+In continuation with Automated Testing in CI, the application Release process is completely automated so that the code changes can be deployed incrementally at any point of time by just clicking a button (manual trigger).
+Generally, shorter release cycles are recommended. Depending on the size of the project, and business requirements, you can configure daily, weekly, fortnightly release schedules.
+The shorter the release cycle the easier it is to troubleshoot in case of any issue after deployment onto a Production environment.&lt;/p&gt;
+&lt;h2 id=&#34;continuous-deployment-cd&#34;&gt;Continuous Deployment (CD)&lt;/h2&gt;
+&lt;p&gt;Continuous Delivery without a manual trigger is Continuous Deployment.
+In Continuous Deployment, every code change is directly released to customers without any manual intervention if it successfully passes all the stages of your CI/CD pipeline. So, if there are no failures in any pipeline tests, every code change is available to the customers immediately.
+This level of automation is made possible by a combination of several different tools and processes that work together to verify and push the code changes to production.
+Once the developer pushes the new code change, it is automatically built, integrated, tested, and directly deployed to the production environment.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image1.png&#34; alt=&#34;pic&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The key benefits&lt;/em&gt; of CI/CD include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Faster Release Cycles&lt;/li&gt;
+&lt;li&gt;Improved Quality&lt;/li&gt;
+&lt;li&gt;Increased Collaboration&lt;/li&gt;
+&lt;li&gt;Reduced Risk&lt;/li&gt;
+&lt;li&gt;Cost-Effective&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In summary, CI/CD emerged as a solution to the limitations of the traditional, linear approach to software development. By introducing a more agile and collaborative approach to software development, CI/CD enables teams to work together, release software more frequently, and respond quickly to customer needs.&lt;/p&gt;
+&lt;p&gt;You can read more about this &lt;a href=&#34;https://vegastack.com/blog/continuous-integration-continuous-deployment-continuous-delivery/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.freecodecamp.org/news/what-is-ci-cd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration and Continuous Delivery (CI/CD)</title>
+      <link>https://example.com/ru/post/writing-technical-content/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/writing-technical-content/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Continuous Integration and Continuous Delivery (CI/CD)&lt;/strong&gt; is a software development approach that aims to improve the speed, efficiency, and reliability of software delivery. This approach involves frequent code integration, automated testing, and continuous deployment of software changes to production.
 Before the adoption of CI/CD in the software development industry, the common approach was a traditional, waterfall model of software development.
 In this approach, developers worked in silos, with each stage of the software development life cycle completed in sequence. The process typically involved gathering requirements, designing the software, coding, testing, and deployment.&lt;/p&gt;
@@ -323,9 +632,50 @@ Once the developer pushes the new code change, it is automatically built, integr
     
     <item>
       <title>First Week...</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://example.com/en/post/getting-started/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://example.com/en/post/getting-started/</guid>
+      <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Have you already felt all this autumn mood when you want to drink cocoa and watch different movies or read books? I love autumn for that. But since I am actively studying now, it is studying that takes most of the time. This week, for example, I did several laboratory works on Scientific Programming at once. I also watched several videos about neural networks (&lt;a href=&#34;https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&amp;amp;si=D_3Cw03OjZDtlBKc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&amp;amp;si=cLP2sUMQdJywcMUn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), because my future dissertation work assumes the use of a neural network to determine the optimal strategy for the redistribution of resources in a 5G network.&lt;/p&gt;
+&lt;p&gt;But I have one piece of good news, because last weekend I finally picked up a book from the post office that my friend brought me straight from my beloved Paris. This is a mystical novel by a belgian singer - Loic Nottet, whom I have been listening to since his performance at Eurovision and I am very happy now that I have his book.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image1.jpg&#34; alt=&#34;Book&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;By the way, if you don&amp;rsquo;t know what to read these autumn evenings, then keep a selection of my favorite books:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Victor Hugo &lt;a href=&#34;https://www.chitai-gorod.ru/product/sobor-parizhskoy-bogomateri-2513491?productShelf=&amp;amp;shelfIndex=0&amp;amp;productIndex=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;«Notre-Dame de Paris»&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Erich Maria Remarque &lt;a href=&#34;https://www.chitai-gorod.ru/product/triumfalnaya-arka-2602918?productShelf=&amp;amp;shelfIndex=0&amp;amp;productIndex=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;«Arch of Triumph»&lt;/a&gt; and &lt;a href=&#34;https://www.chitai-gorod.ru/product/tri-tovarishcha-2666861?productShelf=&amp;amp;shelfIndex=0&amp;amp;productIndex=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;«Three Comrades»&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ray Bradbury &lt;a href=&#34;https://www.chitai-gorod.ru/product/4510-po-farengeytu-2822350?productShelf=&amp;amp;shelfIndex=0&amp;amp;productIndex=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;«Fahrenheit 451»&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Veniamin Kaverin &lt;a href=&#34;https://www.chitai-gorod.ru/product/dva-kapitana-2590405?productShelf=&amp;amp;shelfIndex=0&amp;amp;productIndex=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;«The Two Captains»&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guillaume Musso &lt;a href=&#34;https://www.chitai-gorod.ru/product/kvartira-v-parizhe-2735645?productShelf=&amp;amp;shelfIndex=0&amp;amp;productIndex=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;«An Apartment in Paris»&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Have a nice week everyone, bye!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Week...</title>
+      <link>https://example.com/ru/post/getting-started/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/getting-started/</guid>
       <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Have you already felt all this autumn mood when you want to drink cocoa and watch different movies or read books? I love autumn for that. But since I am actively studying now, it is studying that takes most of the time. This week, for example, I did several laboratory works on Scientific Programming at once. I also watched several videos about neural networks (&lt;a href=&#34;https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&amp;amp;si=D_3Cw03OjZDtlBKc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&amp;amp;si=cLP2sUMQdJywcMUn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), because my future dissertation work assumes the use of a neural network to determine the optimal strategy for the redistribution of resources in a 5G network.&lt;/p&gt;
 &lt;p&gt;But I have one piece of good news, because last weekend I finally picked up a book from the post office that my friend brought me straight from my beloved Paris. This is a mystical novel by a belgian singer - Loic Nottet, whom I have been listening to since his performance at Eurovision and I am very happy now that I have his book.&lt;/p&gt;
@@ -364,9 +714,23 @@ Once the developer pushes the new code change, it is automatically built, integr
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>https://example.com/en/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>https://example.com/en/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://example.com/ru/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -378,9 +742,134 @@ Once the developer pushes the new code change, it is automatically built, integr
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://example.com/en/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://example.com/en/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://example.com/ru/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -503,9 +992,22 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://example.com/en/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://example.com/en/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://example.com/ru/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -516,17 +1018,44 @@ $$&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
+      <link>https://example.com/en/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
+      <guid>https://example.com/en/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://example.com/ru/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>https://example.com/en/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>https://example.com/en/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://example.com/ru/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -543,9 +1072,28 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>https://example.com/en/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>https://example.com/en/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://example.com/ru/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -562,9 +1110,17 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://example.com/en/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://example.com/en/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/ru/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/admin/config.yml</guid>
       <description></description>
     </item>
     
