@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/ru/</link>
-      <atom:link href="https://example.com/ru/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Visitka</title>
+    <link>https://ksenia-leonteva.github.io/</link>
+      <atom:link href="https://ksenia-leonteva.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visitka</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
-      <link>https://example.com/ru/</link>
+      <url>https://ksenia-leonteva.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Visitka</title>
+      <link>https://ksenia-leonteva.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/ru/talk/example-talk/</link>
+      <link>https://ksenia-leonteva.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/talk/example-talk/</guid>
+      <guid>https://ksenia-leonteva.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Creating a report</title>
-      <link>https://example.com/ru/post/report/</link>
+      <link>https://ksenia-leonteva.github.io/post/report/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/report/</guid>
+      <guid>https://ksenia-leonteva.github.io/post/report/</guid>
       <description>&lt;h3 id=&#34;report-structure&#34;&gt;Report structure&lt;/h3&gt;
 &lt;p&gt;According to the generally accepted standard, any research work must necessarily contain the following elements:&lt;/p&gt;
 &lt;ul&gt;
@@ -109,9 +109,9 @@
     
     <item>
       <title>Third Week🎃...</title>
-      <link>https://example.com/ru/post/cake/</link>
+      <link>https://ksenia-leonteva.github.io/post/cake/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/cake/</guid>
+      <guid>https://ksenia-leonteva.github.io/post/cake/</guid>
       <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Last week was Halloween, so I wanted to share with you a delicious pumpkin pie recipe.&lt;/p&gt;
 &lt;h3 id=&#34;ingredients&#34;&gt;INGREDIENTS&lt;/h3&gt;
@@ -175,9 +175,9 @@ Evaporated milk can be replaced with cream or half and half.&lt;/p&gt;
     
     <item>
       <title>Markup language Markdown</title>
-      <link>https://example.com/ru/post/markdown/</link>
+      <link>https://ksenia-leonteva.github.io/post/markdown/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/markdown/</guid>
+      <guid>https://ksenia-leonteva.github.io/post/markdown/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber created Markdown in 2004 as a markup language that is easy to read in its source code form. Markdown is widely used for blogging and instant messaging, and also used elsewhere in online forums, collaborative software, documentation pages, and readme files.&lt;/p&gt;
 &lt;p&gt;The initial description of Markdown contained ambiguities and raised unanswered questions, causing implementations to both intentionally and accidentally diverge from the original version. This was addressed in 2014 when long-standing Markdown contributors released CommonMark, an unambiguous specification and test suite for Markdown.&lt;/p&gt;
 &lt;h2 id=&#34;markdown-syntax&#34;&gt;Markdown syntax.&lt;/h2&gt;
@@ -246,9 +246,9 @@ Evaporated milk can be replaced with cream or half and half.&lt;/p&gt;
     
     <item>
       <title>Second Week...</title>
-      <link>https://example.com/ru/post/2nd-week/</link>
+      <link>https://ksenia-leonteva.github.io/post/2nd-week/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/2nd-week/</guid>
+      <guid>https://ksenia-leonteva.github.io/post/2nd-week/</guid>
       <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;This post is supposed to be a post about the past week, but since there is little new and interesting going on, I can just say that on Monday we had our first test on the Additional Chapters of Queuing Theory, and on Stochastic Processes we started presenting our essays. Everything else is the same. The weather in recent days has not been particularly encouraging, it is getting colder and it often rains, although I love them, I prefer summer ones with thunderstorms. Just last week, the Cantata store had discounts in honor of the company’s birthday, so I was able to purchase new portions of various delicious teas.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s probably all, so I wish everyone a good week and see you soon!&lt;/p&gt;
@@ -257,9 +257,9 @@ Evaporated milk can be replaced with cream or half and half.&lt;/p&gt;
     
     <item>
       <title>Continuous Integration and Continuous Delivery (CI/CD)</title>
-      <link>https://example.com/ru/post/writing-technical-content/</link>
+      <link>https://ksenia-leonteva.github.io/post/writing-technical-content/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/writing-technical-content/</guid>
+      <guid>https://ksenia-leonteva.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Continuous Integration and Continuous Delivery (CI/CD)&lt;/strong&gt; is a software development approach that aims to improve the speed, efficiency, and reliability of software delivery. This approach involves frequent code integration, automated testing, and continuous deployment of software changes to production.
 Before the adoption of CI/CD in the software development industry, the common approach was a traditional, waterfall model of software development.
 In this approach, developers worked in silos, with each stage of the software development life cycle completed in sequence. The process typically involved gathering requirements, designing the software, coding, testing, and deployment.&lt;/p&gt;
@@ -323,9 +323,9 @@ Once the developer pushes the new code change, it is automatically built, integr
     
     <item>
       <title>First Week...</title>
-      <link>https://example.com/ru/post/getting-started/</link>
+      <link>https://ksenia-leonteva.github.io/post/getting-started/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/getting-started/</guid>
+      <guid>https://ksenia-leonteva.github.io/post/getting-started/</guid>
       <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Have you already felt all this autumn mood when you want to drink cocoa and watch different movies or read books? I love autumn for that. But since I am actively studying now, it is studying that takes most of the time. This week, for example, I did several laboratory works on Scientific Programming at once. I also watched several videos about neural networks (&lt;a href=&#34;https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&amp;amp;si=D_3Cw03OjZDtlBKc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&amp;amp;si=cLP2sUMQdJywcMUn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), because my future dissertation work assumes the use of a neural network to determine the optimal strategy for the redistribution of resources in a 5G network.&lt;/p&gt;
 &lt;p&gt;But I have one piece of good news, because last weekend I finally picked up a book from the post office that my friend brought me straight from my beloved Paris. This is a mystical novel by a belgian singer - Loic Nottet, whom I have been listening to since his performance at Eurovision and I am very happy now that I have his book.&lt;/p&gt;
@@ -364,9 +364,9 @@ Once the developer pushes the new code change, it is automatically built, integr
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/ru/publication/preprint/</link>
+      <link>https://ksenia-leonteva.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/preprint/</guid>
+      <guid>https://ksenia-leonteva.github.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -378,9 +378,9 @@ Once the developer pushes the new code change, it is automatically built, integr
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/ru/slides/example/</link>
+      <link>https://ksenia-leonteva.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/slides/example/</guid>
+      <guid>https://ksenia-leonteva.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -503,9 +503,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>https://example.com/ru/project/example/</link>
+      <link>https://ksenia-leonteva.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example/</guid>
+      <guid>https://ksenia-leonteva.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -516,17 +516,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>https://example.com/ru/project/external-project/</link>
+      <link>https://ksenia-leonteva.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/external-project/</guid>
+      <guid>https://ksenia-leonteva.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/ru/publication/journal-article/</link>
+      <link>https://ksenia-leonteva.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/journal-article/</guid>
+      <guid>https://ksenia-leonteva.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -543,9 +543,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/ru/publication/conference-paper/</link>
+      <link>https://ksenia-leonteva.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/conference-paper/</guid>
+      <guid>https://ksenia-leonteva.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -562,9 +562,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/ru/admin/config.yml</link>
+      <link>https://ksenia-leonteva.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/admin/config.yml</guid>
+      <guid>https://ksenia-leonteva.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

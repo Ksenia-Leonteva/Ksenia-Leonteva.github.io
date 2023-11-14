@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ksenia-leonteva.github.io/sitemap.xml
