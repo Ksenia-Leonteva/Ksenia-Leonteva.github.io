@@ -30,6 +30,108 @@
                 href="https://ksenia-leonteva.github.io/en/event/"
                 />
   </url><url>
+    <loc>https://ksenia-leonteva.github.io/en/categories/</loc>
+    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ksenia-leonteva.github.io/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ksenia-leonteva.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://ksenia-leonteva.github.io/en/tag/cryptography/</loc>
+    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ksenia-leonteva.github.io/en/category/demo/</loc>
+    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ksenia-leonteva.github.io/ru/category/demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ksenia-leonteva.github.io/en/category/demo/"
+                />
+  </url><url>
+    <loc>https://ksenia-leonteva.github.io/en/post/4-week/</loc>
+    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ksenia-leonteva.github.io/ru/post/4-week/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ksenia-leonteva.github.io/en/post/4-week/"
+                />
+  </url><url>
+    <loc>https://ksenia-leonteva.github.io/en/post/</loc>
+    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ksenia-leonteva.github.io/ru/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ksenia-leonteva.github.io/en/post/"
+                />
+  </url><url>
+    <loc>https://ksenia-leonteva.github.io/en/tags/</loc>
+    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ksenia-leonteva.github.io/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ksenia-leonteva.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://ksenia-leonteva.github.io/en/tag/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0/</loc>
+    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ksenia-leonteva.github.io/ru/tag/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ksenia-leonteva.github.io/en/tag/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0/"
+                />
+  </url><url>
+    <loc>https://ksenia-leonteva.github.io/en/post/science-languages/</loc>
+    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ksenia-leonteva.github.io/ru/post/science-languages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ksenia-leonteva.github.io/en/post/science-languages/"
+                />
+  </url><url>
     <loc>https://ksenia-leonteva.github.io/en/tag/autumn/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -42,20 +144,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ksenia-leonteva.github.io/en/tag/autumn/"
-                />
-  </url><url>
-    <loc>https://ksenia-leonteva.github.io/en/categories/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ksenia-leonteva.github.io/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ksenia-leonteva.github.io/en/categories/"
                 />
   </url><url>
     <loc>https://ksenia-leonteva.github.io/en/post/report/</loc>
@@ -72,20 +160,6 @@
                 href="https://ksenia-leonteva.github.io/en/post/report/"
                 />
   </url><url>
-    <loc>https://ksenia-leonteva.github.io/en/category/demo/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ksenia-leonteva.github.io/ru/category/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ksenia-leonteva.github.io/en/category/demo/"
-                />
-  </url><url>
     <loc>https://ksenia-leonteva.github.io/en/tag/halloween/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -100,20 +174,6 @@
                 href="https://ksenia-leonteva.github.io/en/tag/halloween/"
                 />
   </url><url>
-    <loc>https://ksenia-leonteva.github.io/en/post/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ksenia-leonteva.github.io/ru/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ksenia-leonteva.github.io/en/post/"
-                />
-  </url><url>
     <loc>https://ksenia-leonteva.github.io/en/tag/science/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -126,20 +186,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ksenia-leonteva.github.io/en/tag/science/"
-                />
-  </url><url>
-    <loc>https://ksenia-leonteva.github.io/en/tags/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ksenia-leonteva.github.io/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ksenia-leonteva.github.io/en/tags/"
                 />
   </url><url>
     <loc>https://ksenia-leonteva.github.io/en/post/cake/</loc>

@@ -5,12 +5,144 @@
     <link>https://ksenia-leonteva.github.io/en/post/</link>
       <atom:link href="https://ksenia-leonteva.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ksenia-leonteva.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://ksenia-leonteva.github.io/en/post/</link>
     </image>
+    
+    <item>
+      <title>Fourth Week...</title>
+      <link>https://ksenia-leonteva.github.io/en/post/4-week/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ksenia-leonteva.github.io/en/post/4-week/</guid>
+      <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;I recently passed an essay on Information Security and in this post I would also like to talk about one of the algorithms used, namely Fermat’s method for factorization.&lt;/p&gt;
+&lt;p&gt;In 1643, Pierre de Fermat proposed a factorization method. He noticed that a composite number can always be represented as the difference of two squares and, based on this observation, proposed a simple method for finding divisors.&lt;/p&gt;
+&lt;p&gt;Let $n = a \cdot b$, where $a$ and $b$ are natural, not necessarily prime, divisors of the number $n$ and $a&amp;gt;b$. Then $n=x^2-y^2$, where $x=\frac{a+b}{2}$, $y=\frac{a-b}{2}$.&lt;/p&gt;
+&lt;p&gt;Fermat&amp;rsquo;s method of factorization consists of going through all possible values of $x$ and checking whether the number $n-x^2$ is a perfect square. If this condition is met, then the divisors a and b satisfy the equalities $a=(x+y)$ and $b=(x-y)$.&lt;/p&gt;
+&lt;p&gt;The method boils down to trying to find two integers a and b that are close to each other $(a \approx b)$. The search starts with the smallest integer greater than $x=\sqrt{n}$. Next, we try to find another integer $y$, such that the equation $y^2=x^2-n$ is satisfied. At each iteration, you need to consider whether the result $x^2-n$ is a perfect square. If such a value is found for y, then $a$ and $b$ are calculated and the loop is exited. Otherwise, another iteration is carried out.&lt;/p&gt;
+&lt;p&gt;Algorithm.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; Odd composite integer $n&amp;gt;0$.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt; Natural divisor $a&amp;gt;1$ of $n$.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Calculate the smallest integer $h$ such that $h \geq \sqrt{n}$, that is, $h=\lceil \sqrt{n} \rceil$.&lt;/li&gt;
+&lt;li&gt;If $h^2=n$, then determine $a=h$ and complete the algorithm.&lt;/li&gt;
+&lt;li&gt;Define $x \gets h, v=x^2-n$ and counter $k=0$.&lt;/li&gt;
+&lt;li&gt;If the value $v$ is a perfect square, then determine $y=\sqrt{v}, a=x+y$ and finish the algorithm.&lt;/li&gt;
+&lt;li&gt;Calculate $k \gets k+1, x \gets x+1$ and $v \gets x^2-n$. Return to point 4.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; the number of checks of the number $v$ (the number of repetitions at the fourth step of the algorithm) does not exceed the value $y=\frac{a-b}{2}$.&lt;/p&gt;
+&lt;p&gt;It is worth noting that this method does not necessarily find the prime factorization (canonical factorization), in which case the algorithm must be repeated recursively for each of the values $a$ and $b$ until the prime factors are found.&lt;/p&gt;
+&lt;p&gt;Fermat&amp;rsquo;s method can be applied to the public key cryptographic algorithm RSA, which relies on the computational complexity of the problem of factoring large semiprimes.&lt;/p&gt;
+&lt;p&gt;I hope you found this information useful. Have a great week!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://ksenia-leonteva.github.io/en/post/science-languages/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ksenia-leonteva.github.io/en/post/science-languages/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Научное программирование&lt;/strong&gt; - стиль программирования, ориентированный на научные расчеты.&lt;/p&gt;
+&lt;h2 id=&#34;языки-научного-программирования&#34;&gt;Языки научного программирования.&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; - это мощный язык программирования общего назначения, который разработал Гвидо ван Россум (Guido van Rossum) в  1989 году. Python классифицируется как язык программирования высокого уровня, в  котором автоматически обрабатывается большинство фундаментальных операций (таких как управление памятью), выполняемых на уровне  процессора («машинный код»). Python считается языком более высокого уровня, чем, например, C, из-за его выразительного синтаксиса (который во многих случаях близок к  естественному языку) и богатого разнообразия встроенных структур данных, таких как списки, кортежи, множества и словари.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Плюсы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ясный и простой синтаксис позволяет быстро писать программы на Python и в общем сводит к минимуму возможности совершения скрытых ошибок,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;сама рабочая программная среда Python и связанные с ней библиотеки бесплатны, а кроме того, представляют собой программное обеспечение с открытым исходным кодом, в отличие от коммерческих предложений, таких как Mathematica и MATLAB,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;для Python существует большая библиотека модулей и пакетов, которая расширяет его функциональность,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;поддержка многих платформ: Python доступен для каждой общедоступной компьютерной системы, в том числе Windows, Unix, Linux и macOS,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Python – гибкий язык: его часто описывают как язык «многих парадигм», в котором имеются наилучшие функциональные возможности для процедурного, объектно-ориентированного и  функционального программирования.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Минусы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;скорость выполнения программы на Python не так высока, как программ на других, полностью компилируемых языках, таких как C и Fortran,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;трудно скрыть или замаскировать исходный код программы на Python, чтобы защитить ее от копирования и/или изменения,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;на протяжении всей истории существования Python самыми частыми претензиями становились жалобы на излишне быстрое его развитие, приводящее к проблемам несовместимости между версиями.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Язык программирования &lt;strong&gt;Fortran&lt;/strong&gt; был разработан в середине 50-х годов ХХ века и стал первым высокоуровневым типом. Сегодня можно часто услышать, что его время прошло с появлением массовых компьютеров и осталось в эпохе перфокарт и ЭВМ размером с целую комнату. Однако данный язык до сих пор актуален. Программа на языке программирования Fortran представляет собой систему, составленную из элементов библиотеки, включающих основной программный текст, модули, внешние подпрограммы и процедуры. Любая программа включает базовый набор комбинаций компьютерных инструкций и данных. Кроме того, она может содержать/не содержать дополнительные программные модули.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Плюсы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;очень простой и доступный вариант языка для обучения программированию,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;благодаря распространенности во всем мире, Fortran имеет объемную библиотеку и большой ассортимент прикладных приложений, которые созданы за его длинную историю,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;система имеет обширный набор инструментов, доступных на бесплатной основе,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;язык программирования Fortran имеет набор средств (трансляторов) для преобразования в машинные системы разных компьютеров.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Минусы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;жесткие требования к формату кода,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;небольшой набор команд для управления программной структурой,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;слабый набор средств для описания данных.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Matlab&lt;/strong&gt; - популярный инструмент, используемый при работе с матричными базами данных, виртуализацией и математическими расчетами. Он не применяется для разработки программного обеспечения вроде игр или бизнес-решений. Язык Matlab высокоуровневый и интерпретируемый. Он включает в себя пакет прикладных программ, а также интегрированную среду разработки. Встречается преимущественно в математических и инженерных задачах. Его изучают математики и физики. Соответствующий комплекс представляет собой набор профессиональных инструментов для технических вычислений, а также компьютерного моделирования. Отличается строгими требованиями качества. Matlab как язык программирования был создан в 1970-х годах неким Кливом Моулером, деканом факультета компьютерных наук в университете Нью-Мексико. В самой первой своей версии Matlab не был полноценным языком. Он представлял собой простой интерактивный матричный калькулятор.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Плюсы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;этот язык намного проще, чем СИ-семейство и Fortan. Он обладает интуитивно понятным синтаксисом, хорошей справочно-документальной базы от разработчиков,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;при помощи данного языка удается работать с продвинутой библиотекой для обработки и формирования графиков, интегрированными функциями линейной алгебры, быстрым преобразованием Фурье, полиномами, базовой статистикой, решением дифференциальных уравнений,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;то, что написано на Matlab, легко переводится на C и C++ через Matlab Coder,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;в пакет включены прикладные приложения от сторонних и официальных разработчиков. Они расширяют стандартную функциональность языка.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Минусы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Matlab имеет множество операторов и команд. Они делают работы программ, написанных на рассматриваемом языке, более медленными,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;использование инструмента поддерживается только в замкнутых экосистемах. На других программных платформах он неэффективен,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;данная программная среда – это коммерческий продукт. Он распространяется только платно. Чтобы приобрести дистрибутив по минимальной стоимости, необходимо быть студентом университета.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Языками научного программирования также считаются: C /C++, ALGOL, APL, J, Julia, Maple и R.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Creating a report</title>

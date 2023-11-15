@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cryptography | Kseniia Leonteva</title>
+    <link>https://ksenia-leonteva.github.io/en/tag/cryptography/</link>
+      <atom:link href="https://ksenia-leonteva.github.io/en/tag/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cryptography</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ksenia-leonteva.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Cryptography</title>
+      <link>https://ksenia-leonteva.github.io/en/tag/cryptography/</link>
+    </image>
+    
+    <item>
+      <title>Fourth Week...</title>
+      <link>https://ksenia-leonteva.github.io/en/post/4-week/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ksenia-leonteva.github.io/en/post/4-week/</guid>
+      <description>&lt;h3 id=&#34;__hello-everybody__&#34;&gt;&lt;strong&gt;Hello everybody!&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;I recently passed an essay on Information Security and in this post I would also like to talk about one of the algorithms used, namely Fermat’s method for factorization.&lt;/p&gt;
+&lt;p&gt;In 1643, Pierre de Fermat proposed a factorization method. He noticed that a composite number can always be represented as the difference of two squares and, based on this observation, proposed a simple method for finding divisors.&lt;/p&gt;
+&lt;p&gt;Let $n = a \cdot b$, where $a$ and $b$ are natural, not necessarily prime, divisors of the number $n$ and $a&amp;gt;b$. Then $n=x^2-y^2$, where $x=\frac{a+b}{2}$, $y=\frac{a-b}{2}$.&lt;/p&gt;
+&lt;p&gt;Fermat&amp;rsquo;s method of factorization consists of going through all possible values of $x$ and checking whether the number $n-x^2$ is a perfect square. If this condition is met, then the divisors a and b satisfy the equalities $a=(x+y)$ and $b=(x-y)$.&lt;/p&gt;
+&lt;p&gt;The method boils down to trying to find two integers a and b that are close to each other $(a \approx b)$. The search starts with the smallest integer greater than $x=\sqrt{n}$. Next, we try to find another integer $y$, such that the equation $y^2=x^2-n$ is satisfied. At each iteration, you need to consider whether the result $x^2-n$ is a perfect square. If such a value is found for y, then $a$ and $b$ are calculated and the loop is exited. Otherwise, another iteration is carried out.&lt;/p&gt;
+&lt;p&gt;Algorithm.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Input:&lt;/em&gt; Odd composite integer $n&amp;gt;0$.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Output:&lt;/em&gt; Natural divisor $a&amp;gt;1$ of $n$.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Calculate the smallest integer $h$ such that $h \geq \sqrt{n}$, that is, $h=\lceil \sqrt{n} \rceil$.&lt;/li&gt;
+&lt;li&gt;If $h^2=n$, then determine $a=h$ and complete the algorithm.&lt;/li&gt;
+&lt;li&gt;Define $x \gets h, v=x^2-n$ and counter $k=0$.&lt;/li&gt;
+&lt;li&gt;If the value $v$ is a perfect square, then determine $y=\sqrt{v}, a=x+y$ and finish the algorithm.&lt;/li&gt;
+&lt;li&gt;Calculate $k \gets k+1, x \gets x+1$ and $v \gets x^2-n$. Return to point 4.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; the number of checks of the number $v$ (the number of repetitions at the fourth step of the algorithm) does not exceed the value $y=\frac{a-b}{2}$.&lt;/p&gt;
+&lt;p&gt;It is worth noting that this method does not necessarily find the prime factorization (canonical factorization), in which case the algorithm must be repeated recursively for each of the values $a$ and $b$ until the prime factors are found.&lt;/p&gt;
+&lt;p&gt;Fermat&amp;rsquo;s method can be applied to the public key cryptographic algorithm RSA, which relies on the computational complexity of the problem of factoring large semiprimes.&lt;/p&gt;
+&lt;p&gt;I hope you found this information useful. Have a great week!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
