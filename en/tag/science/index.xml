@@ -5,12 +5,116 @@
     <link>https://ksenia-leonteva.github.io/en/tag/science/</link>
       <atom:link href="https://ksenia-leonteva.github.io/en/tag/science/index.xml" rel="self" type="application/rss+xml" />
     <description>Science</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ksenia-leonteva.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Science</title>
       <link>https://ksenia-leonteva.github.io/en/tag/science/</link>
     </image>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://ksenia-leonteva.github.io/en/post/science-languages/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ksenia-leonteva.github.io/en/post/science-languages/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Scientific programming&lt;/strong&gt; - a programming style focused on scientific calculations.&lt;/p&gt;
+&lt;h2 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages.&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; is a powerful general-purpose programming language developed by Guido van Rossum in 1989. Python is classified as a high-level programming language that automatically handles most of the fundamental operations (such as memory management) performed at the processor level (&amp;ldquo;machine code&amp;rdquo;). Python is considered a higher-level language than, for example, C because of its expressive syntax (which in many cases is close to natural language) and rich variety of built-in data structures such as lists, tuples, sets, and dictionaries.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;clear and simple syntax allows you to quickly write programs in Python and generally minimizes the possibility of making hidden errors,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Python operating environment itself and its associated libraries are free and open source, unlike commercial offerings such as Mathematica and MATLAB,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Python has a large library of modules and packages that extend its functionality,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;multi-platform support: Python is available for every public computer system, including Windows, Unix, Linux and macOS,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Python is a flexible language: it is often described as a &amp;ldquo;multi-paradigm&amp;rdquo; language that provides the best functionality for procedural, object-oriented, and functional programming.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Disadvantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Python program execution speed is not as fast as programs in other fully compiled languages, such as C and Fortran,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;it is difficult to hide or disguise the source code of a Python program to protect it from being copied and/or modified,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;throughout Python&amp;rsquo;s history, the most common complaints were that its development was too fast, leading to problems of incompatibility between versions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Fortran&lt;/strong&gt; programming language was developed in the mid-1950s and became the first high-level type. Today you can often hear that his time passed with the advent of mass-produced computers and remained in the era of punched cards and computers the size of an entire room. However, this language is still relevant. A program in the Fortran programming language is a system composed of library elements, including the main program text, modules, external subroutines and procedures. Any program includes a basic set of combinations of computer instructions and data. In addition, it may or may not contain additional software modules.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;a very simple and accessible version of the language for learning programming,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;due to its prevalence throughout the world, Fortran has a large library and a large range of application applications that have been created over its long history,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the system has an extensive set of tools available free of charge,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fortran programming language has a set of tools (translators) for conversion to machine systems of different computers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Disadvantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;strict requirements for code format,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a small set of commands to control the program structure,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;weak set of tools for describing data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Matlab&lt;/strong&gt; is a popular tool used for working with matrix databases, virtualization, and mathematical calculations. It is not used for developing software such as games or business solutions. Matlab language is high-level and interpreted. It includes an application package as well as an integrated development environment. It is found primarily in mathematical and engineering problems. It is studied by mathematicians and physicists. The corresponding complex is a set of professional tools for technical calculations, as well as computer modeling. Differs in strict quality requirements. Matlab as a programming language was created in the 1970s by one Cleve Mowler, dean of the computer science department at the University of New Mexico. In its very first version, Matlab was not a full-fledged language. It was a simple interactive matrix calculator.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;this language is much simpler than the SI family and Fortan. It has an intuitive syntax, a good reference and documentation base from the developers,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;using this language it is possible to work with an advanced library for processing and generating graphs, integrated functions of linear algebra, fast Fourier transform, polynomials, basic statistics, solving differential equations,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;what is written in Matlab can be easily translated into C and C++ via Matlab Coder,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the package includes application applications from third-party and official developers. They extend the standard functionality of the language.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Disadvantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Matlab has many operators and commands. They make programs written in the language in question slower,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;use of the tool is only supported in closed ecosystems. It is not effective on other software platforms,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the software environment is a commercial product. It is distributed only for a fee. To purchase the distribution kit at a minimum cost, you must be a university student.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Also considered scientific programming languages are: C/C++, ALGOL, APL, J, Julia, Maple and R.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Creating a report</title>
